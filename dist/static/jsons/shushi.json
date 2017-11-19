@@ -1,0 +1,67 @@
+{
+	"lunbo":[
+			"//image3.benlailife.com/AppHomePageImage/d92bd329cac24bc982a609ff73a74b44_n-n.jpg?imageView2/2/w/625/format/webp",
+			"//image2.benlailife.com/AppHomePageImage/baf9eb48c52c48878d9a9ec8b5038410_n-n.jpg?imageView2/2/w/625/format/webp"
+	],
+	"xiaotu":[
+			{"src":"//image1.benlailife.com/Customer/GradeIcon/191761a3-51a0-4554-8167-631a9a8a5435_n-n.jpg?imageView2/2/w/625/format/webp",
+			"des":""
+			},
+			{"src":"//image7.benlailife.com/Customer/GradeIcon/3e17558d-0648-4d2b-b430-b7dd36b21f3d_n-n.jpg?imageView2/2/w/625/format/webp",
+			"des":""
+			},
+			{"src":"//image3.benlailife.com/Customer/GradeIcon/caa19b73-631a-4009-91a6-5b7b19d2dbe6_n-n.jpg?imageView2/2/w/625/format/webp",
+			"des":""
+			},
+			{"src":"//image3.benlailife.com/Customer/GradeIcon/25a852a5-d2ba-445a-875b-30378a031fd7_n-n.jpg?imageView2/2/w/625/format/webp",
+			"des":""
+			}
+	],
+	
+	"shops":[
+	{
+	"src":"//image2.benlailife.com/OnlineCategoryImage/App/ec1dc557-3329-4837-9d72-4e16e4c1f4f0.jpg?imageView2/2/w/625/format/webp",
+		"des":"包子/汤包",
+		"id":72,
+		"num":1,
+		"price":12.00
+	},
+	{
+	"src":"//image1.benlailife.com/OnlineCategoryImage/App/f8356626-cdfd-459b-be54-fb6a8ee27a3e.jpg?imageView2/2/w/625/format/webp",
+		"des":"飞饼/薯饼",
+		"id":73,
+		"num":1,
+		"price":60.00
+	},
+	{
+	"src":"//image1.benlailife.com/OnlineCategoryImage/App/07ab1fac-a611-4661-a15b-01bfbf841baa.jpg?imageView2/2/w/625/format/webp",
+		"des":"馒头/花卷",
+		"id":74,
+		"num":1,
+		"price":70.00
+	},
+	{
+	"src":"//image2.benlailife.com/OnlineCategoryImage/App/28102cfc-1e4a-454b-a25e-4ad8832af55d.jpg?imageView2/2/w/625/format/webp",
+		"des":"面条/拉面",
+		"id":75,
+		"num":1,
+		"price":172.00
+	},
+	{
+	"src":"//image1.benlailife.com/OnlineCategoryImage/App/b8b78fd0-da1c-4a8c-a689-b3ed700adccd.jpg?imageView2/2/w/625/format/webp",
+		"des":"年糕",
+		"id":76,
+		"num":1,
+		"price":60.00
+	},
+	{
+	"src":"//image6.benlailife.com/OnlineCategoryImage/App/e42b6868-e2e3-45f0-a75c-ee939e4b9328.jpg?imageView2/2/w/625/format/webp",
+		"des":"水饺/馄饨",
+		"id":77,
+		"num":1,
+		"price":70.00
+	}
+	
+	]
+
+}
