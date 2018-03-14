@@ -8,7 +8,7 @@
 			  		<input id="s" type="text" v-model="searchdata" placeholder="麻辣小龙虾"/> 		
 			  		<img class="false" src="//image.benlailife.com/static/images/mycenter/login_n_ico05_0e143fe9.png">
 			  	</div>
-			 <router-link to="/searchs"><a href="javascript:;" @click="savehistory(searchdata)">搜索</a></router-link> 	
+			  <router-link to="/searchs"><a href="javascript:;" @click="savehistory(searchdata)">搜索</a></router-link> 	
 		  	</header>
 		</div>
 	  	<component :is="comp"></component>
